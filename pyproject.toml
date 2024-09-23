@@ -8,6 +8,7 @@ packages = [{include = "python_flask_example"}]
 
 [tool.poetry.dependencies]
 python = "^3.9"
+gunicorn = "^23.0.0"
 
 
 [build-system]
